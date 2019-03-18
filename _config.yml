@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /post/:year/:month/:day/:title
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
