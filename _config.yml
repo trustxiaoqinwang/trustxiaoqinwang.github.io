@@ -1,5 +1,4 @@
 name: xiaoqinwang's website
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 permalink: /post/:year/:month/:day/:title
 
